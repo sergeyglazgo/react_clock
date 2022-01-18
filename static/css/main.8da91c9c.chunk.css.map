@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,MACE,YAAA","file":"main.8da91c9c.chunk.css","sourcesContent":["// styles go here\n.date {\n  color: purple;\n}\n"]}
